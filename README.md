@@ -1,4 +1,4 @@
-
+Набор скриптов для интерпретатора OneScript
 
 scripts\main.os
 
